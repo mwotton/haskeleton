@@ -3,7 +3,7 @@ Haskeleton is now available as a [Stack](http://haskellstack.org) template.
 Getting started with the new version is easy:
 
 ``` sh
-> stack new your-project haskeleton -p github-username=your-username -p 'author-name=Your Name'
+> stack new your-project haskeleton -p github-username:your-username -p 'author-name:Your Name'
 ```
 
 # [Haskeleton][1]
